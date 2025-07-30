@@ -1,7 +1,8 @@
 
 # Analyzing Data with Python (IBM, edX)
 
-This repository contains my learning progress and exercises from the course **"Analyzing Data with Python"** by IBM on edX. The notebooks demonstrate basic to intermediate techniques in data analysis using Python and libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+This repository documents my learning journey through the course **Analyzing Data with Python** by IBM on edX.  
+It includes selected exercises and notebooks. Currently learning and updating this repository as I progress.
 
 ## Progress
 
