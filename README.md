@@ -1,8 +1,7 @@
 
 # Analyzing Data with Python (IBM, edX)
 
-This repository documents my learning journey through the course **Analyzing Data with Python** by IBM on edX.  
-It includes selected exercises and notebooks. Currently learning and updating this repository as I progress.
+This repository contains exercises and progress from IBM’s "Analyzing Data with Python" course on edX. Ongoing updates as I continue learning.
 
 ## Progress
 
@@ -25,6 +24,5 @@ data-python/
 └── README.md
 ```
 
-## Note
 
-This repository is actively maintained and updated as I continue progressing through the course.
+
